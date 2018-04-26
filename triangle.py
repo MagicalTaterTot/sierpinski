@@ -1,3 +1,5 @@
+# comments are for fucking peasants
+
 import turtle
 def draw_sierpinski(length,depth):
     if depth==0:
